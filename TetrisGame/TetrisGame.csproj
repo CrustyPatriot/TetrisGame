@@ -10,6 +10,7 @@
     <None Remove="Assets\BlueCell.png" />
     <None Remove="Assets\EmptyCell.png" />
     <None Remove="Assets\EmptyPiece.png" />
+    <None Remove="Assets\Gradient.png" />
     <None Remove="Assets\GreenCell.png" />
     <None Remove="Assets\IPiece.png" />
     <None Remove="Assets\JPiece.png" />
@@ -29,6 +30,7 @@
     <Resource Include="Assets\BlueCell.png" />
     <Resource Include="Assets\EmptyCell.png" />
     <Resource Include="Assets\EmptyPiece.png" />
+    <Resource Include="Assets\Gradient.png" />
     <Resource Include="Assets\GreenCell.png" />
     <Resource Include="Assets\IPiece.png" />
     <Resource Include="Assets\JPiece.png" />

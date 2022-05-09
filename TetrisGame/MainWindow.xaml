@@ -22,6 +22,10 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/Gradient.png"/>
+        </Grid.Background>
+
         <Viewbox Grid.Row="1" Grid.Column="1" Margin="0,0,0,20">
             <Canvas x:Name="GridCanvas" Background="#101010" 
                     Width="250" Height="510"
