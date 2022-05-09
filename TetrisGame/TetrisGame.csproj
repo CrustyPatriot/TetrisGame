@@ -6,4 +6,42 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Assets\BlueCell.png" />
+    <None Remove="Assets\EmptyCell.png" />
+    <None Remove="Assets\EmptyPiece.png" />
+    <None Remove="Assets\GreenCell.png" />
+    <None Remove="Assets\IPiece.png" />
+    <None Remove="Assets\JPiece.png" />
+    <None Remove="Assets\LightBlueCell.png" />
+    <None Remove="Assets\LPiece.png" />
+    <None Remove="Assets\OPiece.png" />
+    <None Remove="Assets\OrangeCell.png" />
+    <None Remove="Assets\PurpleCell.png" />
+    <None Remove="Assets\RedCell.png" />
+    <None Remove="Assets\SPiece.png" />
+    <None Remove="Assets\TPiece.png" />
+    <None Remove="Assets\YellowCell.png" />
+    <None Remove="Assets\ZPiece.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\BlueCell.png" />
+    <Resource Include="Assets\EmptyCell.png" />
+    <Resource Include="Assets\EmptyPiece.png" />
+    <Resource Include="Assets\GreenCell.png" />
+    <Resource Include="Assets\IPiece.png" />
+    <Resource Include="Assets\JPiece.png" />
+    <Resource Include="Assets\LightBlueCell.png" />
+    <Resource Include="Assets\LPiece.png" />
+    <Resource Include="Assets\OPiece.png" />
+    <Resource Include="Assets\OrangeCell.png" />
+    <Resource Include="Assets\PurpleCell.png" />
+    <Resource Include="Assets\RedCell.png" />
+    <Resource Include="Assets\SPiece.png" />
+    <Resource Include="Assets\TPiece.png" />
+    <Resource Include="Assets\YellowCell.png" />
+    <Resource Include="Assets\ZPiece.png" />
+  </ItemGroup>
+
 </Project>
